@@ -2,7 +2,7 @@
 
 ### 基于 [Unity](https://unity.com/) 的视觉小说游戏开发框架
 
-> 以此祭奠 `Backlight 独立游戏工作室` 和人生中尝试完成的第一部视觉小说 `《逆光》`
+> 以此祭奠 **Backlight 独立游戏工作室** 和人生中尝试完成的第一部视觉小说 *《逆光》*
 
 BacklightEngine 内置脚本解析器，使用独立开发的脚本语言 `BacklightScript` 开发游戏渲染和逻辑
 
